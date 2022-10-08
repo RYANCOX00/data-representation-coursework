@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<catalog>
+
+	<technical_books>
+
+		<book ISBN="9781250118363">
+			<title>Algorithms to Live By: The Computer Science of Human Decisions</title>
+			<author>Brian Christian and Tom Griffiths</author>
+		</book>
+
+		<book ISBN="9780316491976">
+			<title>The Soul of a New Machine</title>
+			<author>Tracy Kidder</author>
+		</book>
+
+		<book ISBN="9780199678112">
+			<title>Superintelligence: Paths, Dangers, Strategies</title>
+			<author>Nick Bostrom</author>
+		</book>
+
+	</technical_books>
+	
+	
+	<cookery_books>
+
+		<book ISBN="9780717195527">
+			<title>More Midweek Meals</title>
+			<author>Neven Maguire</author>
+		</book>
+
+		<book ISBN="9780717195244">
+			<title>Eat Up - The Next Level</title>
+			<author>Daniel Davey</author>
+		</book>
+
+		<book ISBN="9781399710480">
+			<title>SWEET THERAPY: THE JOY OF BAKING</title>
+			<author>Una Leonard</author>
+		</book>
+
+	</cookery_books>
+
+</catalog>
